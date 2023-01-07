@@ -3,6 +3,10 @@
     margin: 0px;
     padding: 0px;
 }
+.logo{
+
+    font-size: 50px;
+}
 
 
 .rubel{
@@ -13,7 +17,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 ul li{
