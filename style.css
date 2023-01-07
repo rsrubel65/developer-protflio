@@ -1,0 +1,188 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.rubel{
+
+    color: orangered;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+ul li{
+
+    list-style: none;
+ 
+}
+nav ul{
+    display: flex;
+align-items: center;
+}
+
+.btn{
+
+    background-color: orangered;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.banner{
+
+    display: flex;
+    align-items: center;
+    margin: 0px 200px;
+}
+
+.hi{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+    line-height: 57px;
+
+}
+
+.name{
+    font-weight: 600px;
+    font-size: 45px;
+}
+
+.text{
+
+    margin-bottom: 20px;
+}
+
+.head-1{
+    background-color: #FFF8F3;
+    background-image: url(image/header_bg.png), url(image/developer.png);
+    background-repeat: no-repeat;
+    background-position:bottom right,left;
+}
+
+
+.about{
+    text-align: center;
+    max-width: 1040px;
+    margin: 0px auto;
+    background: #e7c1a8;
+
+    padding: 150px 150px;
+}
+.about-section{
+
+
+}
+
+.text-1{
+
+}
+.section-title{
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+.all-info{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    flex-direction:row;
+}
+
+.info{
+    text-align: center
+    ;
+}
+.n1{
+    margin-right:20px;
+    margin-top: 10px;
+}
+
+/* What I do Style */
+.skills-contanier{
+
+    display: flex;
+    gap: 25px;
+}
+
+.skill-title{
+
+    font-weight: 600;
+    font-size: 20px;
+  margin-top: 20px;
+}
+.skill{
+
+    background: #FFF8F3;
+    box-shadow: 0px 6px 50px rgba(0,0,0,0, 0.06);
+    border-radius: 5px;
+    padding: 30px ;
+    border: 1px solid black;
+}
+.what{
+
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    
+}
+
+.what-p{
+
+    text-align: center;
+    margin: 0px 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.resume-content{
+    display: flex;
+    margin: 0px 200px;
+    gap: 100px;
+
+}
+
+.section-title{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.resume-title{
+
+    margin-bottom: 30px;
+}
+
+.ppp{
+
+    
+}
+
+.btn1{
+
+   text-align: center;
+   margin-top: 40px;
+}
+
+.footer-manu{
+    display: flex;
+    gap: 100px;
+    background: rgb(245, 181, 181);
+
+   padding: 130px 200px ;
+   margin-top: 40px;
+}
+
+.new{
+    margin: 10px 0px;
+}
+.h-3{
+    margin-top: 10px;
+}
